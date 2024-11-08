@@ -10,3 +10,10 @@ struct Song {
     string artist;
     Song* next;
 };
+int main(){
+    cout<<"data structure"
+    cout<<"data structure"
+    cout<<"data structure"
+    cout<<"data structure"
+    cout<<"data structure"
+}
